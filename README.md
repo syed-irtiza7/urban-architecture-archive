@@ -1,64 +1,91 @@
-# Urban Architecture Archive
-
-Welcome to the official digital curation website for the **Urban Architecture Archive**, created by **Syed Irtiza** for INFO 4730 – Digital Curation and Preservation.
-
-This archive preserves five iconic mid-century modern architectural works using descriptive documentation, metadata, and public-domain imagery.
+# 🌆 Urban Architecture Archive  
+### A Digital Curation Project by **Syed Irtiza**  
+INFO 4730 – Digital Curation & Preservation  
 
 ---
 
-## 🏛️ Curated Buildings
+## 🏛️ Overview
 
-### 1. Case Study House No. 22 (Stahl House)
-- [Description File](items/case_study_house_22.md)
-- ![Stahl House](images/case_study_house_22.jpg)
+The **Urban Architecture Archive** is a curated digital collection highlighting five landmark examples of **mid-century modern architecture**. These structures represent innovation, cultural value, and transformational design practices that shaped the architectural identity of the 20th century.
 
----
-
-### 2. Farnsworth House
-- [Description File](items/farnsworth_house.md)
-- ![Farnsworth House](images/farnsworth_house.jpg)
+This archive presents clean documentation, descriptive insights, and structured metadata to support architectural education, digital preservation, and long-term accessibility.
 
 ---
 
-### 3. Eames House (Case Study House No. 8)
-- [Description File](items/eames_house.md)
-- ![Eames House](images/eames_house.jpg)
+## 🧭 Navigation
+
+Use the sections below to explore:
+
+- **Curated Building Documentation**  
+- **Metadata Records**  
+- **Repository Structure**  
+- **Author Information**  
+
+All files are openly accessible through this website and the public GitHub repository.
 
 ---
 
-### 4. Glass House
-- [Description File](items/glass_house.md)
-- ![Glass House](images/glass_house.jpg)
+# 🏛️ Curated Buildings  
+### *Five Iconic Works of Mid-Century Modern Architecture*
+
+Each item includes a descriptive file that outlines the history, architectural features, and cultural significance of the structure.
 
 ---
 
-### 5. Villa Savoye
-- [Description File](items/villa_savoye.md)
-- ![Villa Savoye](images/villa_savoye.jpg)
+## 1. **Case Study House No. 22 (Stahl House)**  
+📄 [View Description](items/case_study_house_22.md)  
+🔗 [Metadata Record](metadata/metadata_case_study_house_22.md)
 
 ---
 
-## 📑 Metadata Files
-
-Each item includes metadata according to digital curation standards:
-
-- [Case Study House No. 22 Metadata](metadata/metadata_case_study_house_22.md)  
-- [Farnsworth House Metadata](metadata/metadata_farnsworth_house.md)  
-- [Eames House Metadata](metadata/metadata_eames_house.md)  
-- [Glass House Metadata](metadata/metadata_glass_house.md)  
-- [Villa Savoye Metadata](metadata/metadata_villa_savoye.md)  
+## 2. **Farnsworth House**  
+📄 [View Description](items/farnsworth_house.md)  
+🔗 [Metadata Record](metadata/metadata_farnsworth_house.md)
 
 ---
 
-## 📂 Repository Link  
-
-To view all files directly in GitHub, visit:  
-https://github.com/syed-irtiza7/urban-architecture-archive
+## 3. **Eames House (Case Study House No. 8)**  
+📄 [View Description](items/eames_house.md)  
+🔗 [Metadata Record](metadata/metadata_eames_house.md)
 
 ---
 
-## 👤 Creator  
+## 4. **Glass House**  
+📄 [View Description](items/glass_house.md)  
+🔗 [Metadata Record](metadata/metadata_glass_house.md)
 
-**Syed Irtiza**  
-INFO 4730 – Digital Curation and Preservation  
-University of North Texas
+---
+
+## 5. **Villa Savoye**  
+📄 [View Description](items/villa_savoye.md)  
+🔗 [Metadata Record](metadata/metadata_villa_savoye.md)
+
+---
+
+# 📁 Metadata Overview  
+
+This archive uses a structured metadata schema to support preservation, discovery, and long-term accessibility.  
+Each metadata record includes:
+
+- Item ID  
+- Creator  
+- Date  
+- Location  
+- Description  
+- Format & Type  
+- Subject Keywords  
+- Rights & Source Information  
+- Recommended Citation  
+
+Explore metadata:  
+
+- [Case Study House No. 22](metadata/metadata_case_study_house_22.md)  
+- [Farnsworth House](metadata/metadata_farnsworth_house.md)  
+- [Eames House](metadata/metadata_eames_house.md)  
+- [Glass House](metadata/metadata_glass_house.md)  
+- [Villa Savoye](metadata/metadata_villa_savoye.md)
+
+---
+
+# 🗂️ Repository Structure
+
